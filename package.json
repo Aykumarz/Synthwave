@@ -1,7 +1,7 @@
 {
   "name": "synthwave",
   "version": "1.0.0",
- 
+  "homepage": "https://aykumarz.github.io/Synthwave",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.0",
